@@ -27,7 +27,7 @@ div {
 		width: 100%;
 	}
 
-.label {
+.label1 {
 		float: right;
 		width: 150px;
 		padding: 5px;
@@ -36,8 +36,34 @@ div {
 		text-align: center;
 		font-size: 150%;
 		font-weight: bold;
+		background-color: pink;
 	}
 	
+.label2 {
+		float: right;
+		width: 150px;
+		padding: 5px;
+		margin: -1px 0px 5px 5px;
+		border: 1px solid black;
+		text-align: center;
+		font-size: 150%;
+		font-weight: bold;
+		background-color: red; 
+		color: white;
+	}
+
+.label3 {
+		float: right;
+		width: 150px;
+		padding: 5px;
+		margin: -1px 0px 5px 5px;
+		border: 1px solid black;
+		text-align: center;
+		font-size: 150%;
+		font-weight: bold;
+		background-color: yellow;
+	}
+
 .content {
 		padding: 5px;
 		border: none;
